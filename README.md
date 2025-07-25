@@ -1,14 +1,3 @@
-# sql-data-warehouse-project
- Welcome to the Data Warehouse and Analytics Project 👋
-This project shows how to build a complete data warehouse and use it to find useful insights. It covers everything from collecting raw data to creating final reports.
-It's designed as a portfolio project to show:
-Good practices in data engineering
-How to design and build a data warehouse
-How to clean, load, and analyze data
-How to turn data into easy-to-understand insights
-This project is great for anyone interested in data engineering, analytics, or learning how real-world data systems work
-
-
 # 📊 Data Warehouse and Analytics Project
 
 Welcome to the **Data Warehouse and Analytics Project** repository! 🚀  
@@ -112,7 +101,7 @@ data-warehouse-project/
 └── requirements.txt # 📦 Required tools/libraries
 
 
-🌟 About Me
+# 🌟 About Me
 Hi there! I'm Shreyash Gadling, and I'm thrilled to share my very first project after completing my SQL course. 📊
 This marks the beginning of my journey into the world of data, and I’ve already learned so much — from writing complex queries to understanding how data powers real-world decisions. 💡
 I'm deeply passionate about analytics, and my dream is to become a Data Analyst in the near future. 🚀
